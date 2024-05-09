@@ -1,4 +1,4 @@
-### Operadores ###
+### Operadores Aritmeticos ###
 
 print(3 + 4)
 print(3 - 4)
@@ -21,4 +21,3 @@ print("Hola " + str(5)) # Para poder sumar una string con un numero entero debem
 
 print("Hola " * 5) # Como se puede comprobar al multiplicar esta string con el numero entero nos duplica x 5 veces la string "Hola". Tambien se puede de esta forma
 print("Hola " * (2 ** 3)) # Aqui hace primero la multiplicacion que esta entre parentesis osea (2 ** 3) y luego su resultado lo multiplica con la string "Hola"
-

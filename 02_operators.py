@@ -21,3 +21,19 @@ print("Hola " + str(5)) # Para poder sumar una string con un numero entero debem
 
 print("Hola " * 5) # Como se puede comprobar al multiplicar esta string con el numero entero nos duplica x 5 veces la string "Hola". Tambien se puede de esta forma
 print("Hola " * (2 ** 3)) # Aqui hace primero la multiplicacion que esta entre parentesis osea (2 ** 3) y luego su resultado lo multiplica con la string "Hola"
+
+### Operadores comprativos ###
+
+print(3 > 4) # tres es mayor que cuatro?
+print(3 < 4) # tes es menor que cuatro?
+print(3 >= 4) # tres es mayor o igual que cuatro?
+print(3 <= 4) # tres es menor o igual que cuatro?
+print(3 == 4) # tres es igual a cuatro?
+print(3 != 4) # tres es distinto que cuatro?
+
+print("Hola " > "python") #
+print("Hola "< "python") #
+print("Hola " >= "python")#
+print("Hola "<= "python")#
+print("Hola " == "python") #
+print("Hola "!= "python") #

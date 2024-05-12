@@ -1,3 +1,5 @@
+### File creado por: YugaScript ###
+
 ### Operadores Aritmeticos ###
 
 print(3 + 4)
@@ -31,9 +33,11 @@ print(3 <= 4) # tres es menor o igual que cuatro?
 print(3 == 4) # tres es igual a cuatro?
 print(3 != 4) # tres es distinto que cuatro?
 
-print("Hola " > "python") #
-print("Hola "< "python") #
-print("Hola " >= "python")#
-print("Hola "<= "python")#
-print("Hola " == "python") #
-print("Hola "!= "python") #
+### Operadores Logicos ###
+
+print(3 > 4 and "Hola " > "python")
+print(3 > 4 or "Hola " > "python")
+print(3 > 4 and "Hola " > "python")
+print(3 > 4 or "Hola " > "python")
+print( 3 < 4 or ("Hola " > "Python" and 4 == 4))
+print(not(3 > 4))
